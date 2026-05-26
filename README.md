@@ -1,9 +1,9 @@
 [file name]: image.png
 [file content begin]
 
-# stivk750 Update README.md
+# Распределение дополнительных обязанностей
 
-## Code
+## Функционал
 
 <details>
   <summary style="color: blue; font-weight: bold;">✔ # Распределение дополнительных обязанностей</summary>
